@@ -1,9 +1,7 @@
-MIT License
-
-Copyright (c) 2022 dorincop
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+라이선스
+저작권(c)2022 도린캅
+본 소프트웨어의 사용, 배포에 대한 권리를 포함하여 제한 없이 본 소프트웨어 및 관련 문서 파일의 복사본(이하 "소프트웨어")을 다운받는 모든 사람에게 무상으로 허가되지만 다음과 같은 일부는 도린캅 (이하 "소프트웨어 저작권자" 라 합니다.)에 허가를 받아야 합니다. (밑 조항 참조)
+제 1조 이 소프트웨어를 영리 추구 목적으로 다운 받는 경우
+제 2조 이 소프트웨어를 복제 목적으로 다운 받는 경우
+제 3조 이 소프트웨어를 개조(수정)에 목적으로 다운받는 경우 (만약에 나중에 개조할 일이 생겼다해도 해당)
+단. 아래와 같은 경우는 허용한다.
